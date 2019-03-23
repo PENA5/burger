@@ -1,10 +1,10 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Helps you order a burger and eat it",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
